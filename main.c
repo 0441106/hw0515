@@ -8,6 +8,7 @@ int main(int argc, char *argv[]) {
 	for(constant=0;constant<variable;constant++){
 		sum=sum+constant; //1 plus to variable(10)
 	}
+	printf("Homework 0515-0518\n");
 	printf("sum=%d\n",sum); //print sum
 	return 0;
 }
